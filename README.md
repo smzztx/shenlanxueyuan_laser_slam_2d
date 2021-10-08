@@ -1,5 +1,6 @@
 本文当作我学习《激光SLAM理论与实践 - 第六期》的一个记录，这里的作业答案并不是标准答案，心得部分将用斜体标出，如有错误请指出，谢谢！  
 参考的文章会在文末列出。  
+GitHub上公式和图片显示有点问题，于是又上传了 作业.pdf。
   
 [github地址（用于放置最新的源码）](https://github.com/smzztx/shenlanxueyuan_laser_slam_2d)  
 [CSDN目录地址](https://blog.csdn.net/shamozhizhoutx/article/details/120630588)  
