@@ -16,5 +16,5 @@ GitHub上公式和图片显示有点问题，于是又上传了 作业.pdf。
 - 第8章 Life-long Mapping
 - [第9章 3D激光SLAM（大作业）](第9章%203D激光SLAM（大作业）/作业.md)
   
----------
+---
 写作业有的时候会卡很久，还是需要一些参考的，首先是[第四期大神绍磊leo写的博客](https://blog.csdn.net/m0_37340621/article/details/104106570)，接着是[第三期大神sunmiaozju上传的代码](https://github.com/sunmiaozju/shenlan-laser-slam-2d)，最后[第一期大神Wleisure95的代码](https://github.com/Wleisure95/laser_slam)也放上来吧，难免有相同的地方，如有侵权马上删除。
